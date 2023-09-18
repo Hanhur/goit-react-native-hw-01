@@ -1,6 +1,6 @@
 # goit-react-native-hw-01
 
-![Screenshot](Screenshot-react-native-blank.jpg);
+![Screenshot](./screenshot/Screenshot-react-native-blank.jpg);
 
 1. Встановити expo
 2. Встановити Android Studio
