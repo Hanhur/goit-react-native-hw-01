@@ -8,3 +8,4 @@
 Налаштувати Xcode (якщо працюєте на Mac)
 Встановити expo client собі на телефон
 Запустити створений проект на телефоні, емуляторі Android, симуляторі iOS (якщо працюєте на Mac)
+![Alt text](Screenshot-react-native-blank.jpg);
